@@ -14,8 +14,8 @@ The tool relys on API's from Petfinder, Meow Facts, and Dog Facts.
 - More realtime feedback about your quiz results
 
 ## Links to project
-https://amandanguyenn.github.io/group-project-1/
-https://github.com/AmandaNguyenn/group-project-1
+https://amandanguyenn.github.io/PawPair/
+https://github.com/AmandaNguyenn/PawPair
 
 ## Screenshots
 
